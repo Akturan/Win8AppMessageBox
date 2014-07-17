@@ -1,0 +1,1 @@
+c:\users\hueseyin.akturan\documents\visual studio 2012\Projects\Win8AppMessageBox\Win8AppMessageBox\Win8AppMessageBox.csproj;neutral

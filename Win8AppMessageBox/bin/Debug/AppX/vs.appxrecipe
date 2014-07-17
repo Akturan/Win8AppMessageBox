@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>1NRPF210HAW8</Machine>
+    <WindowsUser>hueseyin.akturan</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>A807B543AA70FB9F28A3B5DD8CD0D6475610BDD6BFF6FB1BBA4354E24A4A0BC8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>fd6ef407-f9dc-404a-8c2a-8d8a909b8fdb_1.0.0.0_neutral__8q0jjf4qbv7je</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>fd6ef407-f9dc-404a-8c2a-8d8a909b8fdb_8q0jjf4qbv7je!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>fd6ef407-f9dc-404a-8c2a-8d8a909b8fdb</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=hueseyin.akturan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\hueseyin.akturan\documents\visual studio 2012\Projects\Win8AppMessageBox\Win8AppMessageBox\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-17T09:31:14.995</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\hueseyin.akturan\documents\visual studio 2012\Projects\Win8AppMessageBox\Win8AppMessageBox\bin\Debug\Win8AppMessageBox.exe">
+      <PackagePath>Win8AppMessageBox.exe</PackagePath>
+      <Modified>2014-07-17T09:49:14.800</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\hueseyin.akturan\documents\visual studio 2012\Projects\Win8AppMessageBox\Win8AppMessageBox\bin\Debug\Win8AppMessageBox.pdb">
+      <PackagePath>Win8AppMessageBox.pdb</PackagePath>
+      <Modified>2014-07-17T09:49:14.636</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\hueseyin.akturan\documents\visual studio 2012\Projects\Win8AppMessageBox\Win8AppMessageBox\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T21:17:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\hueseyin.akturan\documents\visual studio 2012\Projects\Win8AppMessageBox\Win8AppMessageBox\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T21:17:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\hueseyin.akturan\documents\visual studio 2012\Projects\Win8AppMessageBox\Win8AppMessageBox\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T21:17:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\hueseyin.akturan\documents\visual studio 2012\Projects\Win8AppMessageBox\Win8AppMessageBox\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T21:17:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\hueseyin.akturan\documents\visual studio 2012\Projects\Win8AppMessageBox\Win8AppMessageBox\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2014-07-17T09:28:03.469</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\hueseyin.akturan\documents\visual studio 2012\Projects\Win8AppMessageBox\Win8AppMessageBox\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-07-26T18:24:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\hueseyin.akturan\documents\visual studio 2012\Projects\Win8AppMessageBox\Win8AppMessageBox\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2014-07-17T09:49:12.622</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\hueseyin.akturan\documents\visual studio 2012\Projects\Win8AppMessageBox\Win8AppMessageBox\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-07-17T09:31:13.789</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
